@@ -143,3 +143,4 @@ astro dev start
 ## Funcionalidades não implementadas
 - Testes
 - Captura de erros
+- CI/CD
