@@ -1,0 +1,6 @@
+astro dev start
+astro dev restart
+docker stop $(docker ps -aq)
+docker kill $(docker ps -aq)
+
+mkdir -p include/logs include/data/bronze/openbrewerydb/breweries && chmod -R 777 include

@@ -1,0 +1,465 @@
+2025-04-03 00:00:01 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:61 - Starting breweries data ingestion for date: 2025-04-03
+2025-04-03 00:00:03 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:69 - Total breweries to process: 8369 across 84 pages
+2025-04-03 00:00:03 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 1 of 84
+2025-04-03 00:00:04 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 2 of 84
+2025-04-03 00:00:04 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 3 of 84
+2025-04-03 00:00:05 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 4 of 84
+2025-04-03 00:00:06 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 5 of 84
+2025-04-03 00:00:07 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 6 of 84
+2025-04-03 00:00:07 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 7 of 84
+2025-04-03 00:00:08 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 8 of 84
+2025-04-03 00:00:09 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 9 of 84
+2025-04-03 00:00:10 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 10 of 84
+2025-04-03 00:00:11 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 11 of 84
+2025-04-03 00:00:11 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 12 of 84
+2025-04-03 00:00:12 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 13 of 84
+2025-04-03 00:00:13 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 14 of 84
+2025-04-03 00:00:14 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 15 of 84
+2025-04-03 00:00:15 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 16 of 84
+2025-04-03 00:00:16 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 17 of 84
+2025-04-03 00:00:16 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 18 of 84
+2025-04-03 00:00:17 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 19 of 84
+2025-04-03 00:00:18 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 20 of 84
+2025-04-03 00:00:18 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 21 of 84
+2025-04-03 00:00:19 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 22 of 84
+2025-04-03 00:00:20 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 23 of 84
+2025-04-03 00:00:21 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 24 of 84
+2025-04-03 00:00:22 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 25 of 84
+2025-04-03 00:00:22 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 26 of 84
+2025-04-03 00:00:23 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 27 of 84
+2025-04-03 00:00:23 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 28 of 84
+2025-04-03 00:00:24 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 29 of 84
+2025-04-03 00:00:25 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 30 of 84
+2025-04-03 00:00:26 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 31 of 84
+2025-04-03 00:00:27 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 32 of 84
+2025-04-03 00:00:28 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 33 of 84
+2025-04-03 00:00:29 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 34 of 84
+2025-04-03 00:00:30 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 35 of 84
+2025-04-03 00:00:30 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 36 of 84
+2025-04-03 00:00:31 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 37 of 84
+2025-04-03 00:00:32 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 38 of 84
+2025-04-03 00:00:32 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 39 of 84
+2025-04-03 00:00:33 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 40 of 84
+2025-04-03 00:00:34 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 41 of 84
+2025-04-03 00:00:35 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 42 of 84
+2025-04-03 00:00:35 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 43 of 84
+2025-04-03 00:00:36 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 44 of 84
+2025-04-03 00:00:38 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 45 of 84
+2025-04-03 00:00:39 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 46 of 84
+2025-04-03 00:00:40 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 47 of 84
+2025-04-03 00:00:40 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 48 of 84
+2025-04-03 00:00:41 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 49 of 84
+2025-04-03 00:00:41 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 50 of 84
+2025-04-03 00:00:42 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 51 of 84
+2025-04-03 00:00:43 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 52 of 84
+2025-04-03 00:00:43 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 53 of 84
+2025-04-03 00:00:44 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 54 of 84
+2025-04-03 00:00:45 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 55 of 84
+2025-04-03 00:00:46 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 56 of 84
+2025-04-03 00:00:46 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 57 of 84
+2025-04-03 00:00:47 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 58 of 84
+2025-04-03 00:00:48 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 59 of 84
+2025-04-03 00:00:49 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 60 of 84
+2025-04-03 00:00:49 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 61 of 84
+2025-04-03 00:00:50 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 62 of 84
+2025-04-03 00:00:51 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 63 of 84
+2025-04-03 00:00:51 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 64 of 84
+2025-04-03 00:00:53 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 65 of 84
+2025-04-03 00:00:53 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 66 of 84
+2025-04-03 00:00:54 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 67 of 84
+2025-04-03 00:00:55 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 68 of 84
+2025-04-03 00:00:55 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 69 of 84
+2025-04-03 00:00:56 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 70 of 84
+2025-04-03 00:00:57 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 71 of 84
+2025-04-03 00:00:57 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 72 of 84
+2025-04-03 00:00:58 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 73 of 84
+2025-04-03 00:00:59 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 74 of 84
+2025-04-03 00:01:00 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 75 of 84
+2025-04-03 00:01:00 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 76 of 84
+2025-04-03 00:01:01 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 77 of 84
+2025-04-03 00:01:02 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 78 of 84
+2025-04-03 00:01:03 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 79 of 84
+2025-04-03 00:01:03 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 80 of 84
+2025-04-03 00:01:04 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 81 of 84
+2025-04-03 00:01:05 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 82 of 84
+2025-04-03 00:01:06 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 83 of 84
+2025-04-03 00:01:08 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 84 of 84
+2025-04-03 00:01:09 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:102 - Saving data to: /usr/local/airflow/include/data/bronze/openbrewerydb/breweries/full/year=2025/month=4/day=3/20250403_000001_breweries.json
+2025-04-03 00:01:09 | SUCCESS  | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:107 - Successfully saved 8369 records to /usr/local/airflow/include/data/bronze/openbrewerydb/breweries/full/year=2025/month=4/day=3/20250403_000001_breweries.json
+2025-04-03 00:01:09 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:109 - 
+        Ingestion completed successfully:
+        - Total records processed: 8369
+        - Total execution time: 68.16 seconds
+        
+2025-04-03 01:22:30 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:61 - Starting breweries data ingestion for date: 2025-04-03
+2025-04-03 01:22:30 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:69 - Total breweries to process: 8369 across 84 pages
+2025-04-03 01:22:30 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 1 of 84
+2025-04-03 01:22:31 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 2 of 84
+2025-04-03 01:22:32 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 3 of 84
+2025-04-03 01:22:33 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 4 of 84
+2025-04-03 01:22:33 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 5 of 84
+2025-04-03 01:22:34 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 6 of 84
+2025-04-03 01:22:35 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 7 of 84
+2025-04-03 01:22:36 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 8 of 84
+2025-04-03 01:22:36 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 9 of 84
+2025-04-03 01:22:37 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 10 of 84
+2025-04-03 01:22:38 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 11 of 84
+2025-04-03 01:22:38 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 12 of 84
+2025-04-03 01:22:39 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 13 of 84
+2025-04-03 01:22:40 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 14 of 84
+2025-04-03 01:22:40 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 15 of 84
+2025-04-03 01:22:41 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 16 of 84
+2025-04-03 01:22:42 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 17 of 84
+2025-04-03 01:22:43 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 18 of 84
+2025-04-03 01:22:43 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 19 of 84
+2025-04-03 01:22:44 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 20 of 84
+2025-04-03 01:22:45 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 21 of 84
+2025-04-03 01:22:46 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 22 of 84
+2025-04-03 01:22:46 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 23 of 84
+2025-04-03 01:22:47 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 24 of 84
+2025-04-03 01:22:48 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 25 of 84
+2025-04-03 01:22:49 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 26 of 84
+2025-04-03 01:22:49 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 27 of 84
+2025-04-03 01:22:50 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 28 of 84
+2025-04-03 01:22:51 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 29 of 84
+2025-04-03 01:22:51 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 30 of 84
+2025-04-03 01:22:52 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 31 of 84
+2025-04-03 01:22:53 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 32 of 84
+2025-04-03 01:22:54 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 33 of 84
+2025-04-03 01:22:54 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 34 of 84
+2025-04-03 01:22:55 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 35 of 84
+2025-04-03 01:22:56 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 36 of 84
+2025-04-03 01:22:56 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 37 of 84
+2025-04-03 01:22:57 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 38 of 84
+2025-04-03 01:22:58 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 39 of 84
+2025-04-03 01:22:58 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 40 of 84
+2025-04-03 01:22:59 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 41 of 84
+2025-04-03 01:23:00 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 42 of 84
+2025-04-03 01:23:01 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 43 of 84
+2025-04-03 01:23:02 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 44 of 84
+2025-04-03 01:23:02 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 45 of 84
+2025-04-03 01:23:03 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 46 of 84
+2025-04-03 01:23:04 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 47 of 84
+2025-04-03 01:23:04 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 48 of 84
+2025-04-03 01:23:05 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 49 of 84
+2025-04-03 01:23:06 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 50 of 84
+2025-04-03 01:23:07 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 51 of 84
+2025-04-03 01:23:07 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 52 of 84
+2025-04-03 01:23:08 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 53 of 84
+2025-04-03 01:23:09 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 54 of 84
+2025-04-03 01:23:10 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 55 of 84
+2025-04-03 01:23:11 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 56 of 84
+2025-04-03 01:23:11 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 57 of 84
+2025-04-03 01:23:12 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 58 of 84
+2025-04-03 01:23:13 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 59 of 84
+2025-04-03 01:23:14 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 60 of 84
+2025-04-03 01:23:14 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 61 of 84
+2025-04-03 01:23:15 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 62 of 84
+2025-04-03 01:23:16 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 63 of 84
+2025-04-03 01:23:17 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 64 of 84
+2025-04-03 01:23:17 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 65 of 84
+2025-04-03 01:23:18 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 66 of 84
+2025-04-03 01:23:19 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 67 of 84
+2025-04-03 01:23:20 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 68 of 84
+2025-04-03 01:23:20 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 69 of 84
+2025-04-03 01:23:21 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 70 of 84
+2025-04-03 01:23:22 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 71 of 84
+2025-04-03 01:23:22 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 72 of 84
+2025-04-03 01:23:23 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 73 of 84
+2025-04-03 01:23:24 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 74 of 84
+2025-04-03 01:23:25 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 75 of 84
+2025-04-03 01:23:25 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 76 of 84
+2025-04-03 01:23:26 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 77 of 84
+2025-04-03 01:23:27 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 78 of 84
+2025-04-03 01:23:28 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 79 of 84
+2025-04-03 01:23:28 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 80 of 84
+2025-04-03 01:23:29 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 81 of 84
+2025-04-03 01:23:29 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 82 of 84
+2025-04-03 01:23:30 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 83 of 84
+2025-04-03 01:23:31 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 84 of 84
+2025-04-03 01:23:31 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:102 - Saving data to: /usr/local/airflow/include/data/bronze/openbrewerydb/breweries/full/year=2025/month=4/day=3/20250403_012230_breweries.json
+2025-04-03 01:23:31 | SUCCESS  | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:107 - Successfully saved 8369 records to /usr/local/airflow/include/data/bronze/openbrewerydb/breweries/full/year=2025/month=4/day=3/20250403_012230_breweries.json
+2025-04-03 01:23:31 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:109 - 
+        Ingestion completed successfully:
+        - Total records processed: 8369
+        - Total execution time: 61.74 seconds
+        
+2025-04-03 01:26:18 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:61 - Starting breweries data ingestion for date: 2025-04-03
+2025-04-03 01:26:18 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:69 - Total breweries to process: 8369 across 84 pages
+2025-04-03 01:26:18 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 1 of 84
+2025-04-03 01:26:18 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 2 of 84
+2025-04-03 01:26:19 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 3 of 84
+2025-04-03 01:26:19 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 4 of 84
+2025-04-03 01:26:19 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 5 of 84
+2025-04-03 01:26:20 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 6 of 84
+2025-04-03 01:26:20 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 7 of 84
+2025-04-03 01:26:20 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 8 of 84
+2025-04-03 01:26:21 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 9 of 84
+2025-04-03 01:26:21 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 10 of 84
+2025-04-03 01:26:21 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 11 of 84
+2025-04-03 01:26:22 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 12 of 84
+2025-04-03 01:26:22 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 13 of 84
+2025-04-03 01:26:22 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 14 of 84
+2025-04-03 01:26:23 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 15 of 84
+2025-04-03 01:26:23 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 16 of 84
+2025-04-03 01:26:23 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 17 of 84
+2025-04-03 01:26:24 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 18 of 84
+2025-04-03 01:26:24 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 19 of 84
+2025-04-03 01:26:25 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 20 of 84
+2025-04-03 01:26:25 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 21 of 84
+2025-04-03 01:26:25 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 22 of 84
+2025-04-03 01:26:26 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 23 of 84
+2025-04-03 01:26:26 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 24 of 84
+2025-04-03 01:26:26 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 25 of 84
+2025-04-03 01:26:27 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 26 of 84
+2025-04-03 01:26:27 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 27 of 84
+2025-04-03 01:26:28 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 28 of 84
+2025-04-03 01:26:28 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 29 of 84
+2025-04-03 01:26:28 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 30 of 84
+2025-04-03 01:26:28 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 31 of 84
+2025-04-03 01:26:29 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 32 of 84
+2025-04-03 01:26:29 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 33 of 84
+2025-04-03 01:26:29 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 34 of 84
+2025-04-03 01:26:30 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 35 of 84
+2025-04-03 01:26:30 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 36 of 84
+2025-04-03 01:26:30 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 37 of 84
+2025-04-03 01:26:31 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 38 of 84
+2025-04-03 01:26:31 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 39 of 84
+2025-04-03 01:26:31 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 40 of 84
+2025-04-03 01:26:32 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 41 of 84
+2025-04-03 01:26:32 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 42 of 84
+2025-04-03 01:26:32 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 43 of 84
+2025-04-03 01:26:33 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 44 of 84
+2025-04-03 01:26:33 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 45 of 84
+2025-04-03 01:26:33 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 46 of 84
+2025-04-03 01:26:34 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 47 of 84
+2025-04-03 01:26:34 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 48 of 84
+2025-04-03 01:26:34 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 49 of 84
+2025-04-03 01:26:35 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 50 of 84
+2025-04-03 01:26:35 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 51 of 84
+2025-04-03 01:26:35 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 52 of 84
+2025-04-03 01:26:36 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 53 of 84
+2025-04-03 01:26:36 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 54 of 84
+2025-04-03 01:26:36 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 55 of 84
+2025-04-03 01:26:37 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 56 of 84
+2025-04-03 01:26:37 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 57 of 84
+2025-04-03 01:26:37 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 58 of 84
+2025-04-03 01:26:38 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 59 of 84
+2025-04-03 01:26:38 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 60 of 84
+2025-04-03 01:26:38 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 61 of 84
+2025-04-03 01:26:39 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 62 of 84
+2025-04-03 01:26:39 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 63 of 84
+2025-04-03 01:26:39 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 64 of 84
+2025-04-03 01:26:40 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 65 of 84
+2025-04-03 01:26:40 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 66 of 84
+2025-04-03 01:26:41 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 67 of 84
+2025-04-03 01:26:41 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 68 of 84
+2025-04-03 01:26:41 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 69 of 84
+2025-04-03 01:26:42 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 70 of 84
+2025-04-03 01:26:42 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 71 of 84
+2025-04-03 01:26:42 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 72 of 84
+2025-04-03 01:26:43 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 73 of 84
+2025-04-03 01:26:43 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 74 of 84
+2025-04-03 01:26:44 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 75 of 84
+2025-04-03 01:26:44 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 76 of 84
+2025-04-03 01:26:44 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 77 of 84
+2025-04-03 01:26:45 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 78 of 84
+2025-04-03 01:26:45 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 79 of 84
+2025-04-03 01:26:46 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 80 of 84
+2025-04-03 01:26:46 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 81 of 84
+2025-04-03 01:26:46 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 82 of 84
+2025-04-03 01:26:47 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 83 of 84
+2025-04-03 01:26:47 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:77 - Processing page 84 of 84
+2025-04-03 01:26:47 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:102 - Saving data to: /usr/local/airflow/include/data/bronze/openbrewerydb/breweries/full/year=2025/month=4/day=3/20250403_012618_breweries.json
+2025-04-03 01:26:47 | SUCCESS  | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:107 - Successfully saved 8369 records to /usr/local/airflow/include/data/bronze/openbrewerydb/breweries/full/year=2025/month=4/day=3/20250403_012618_breweries.json
+2025-04-03 01:26:47 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:109 - 
+        Ingestion completed successfully:
+        - Total records processed: 8369
+        - Total execution time: 29.39 seconds
+        
+2025-04-03 11:16:42 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:62 - Starting breweries data ingestion for date: 2025-04-03
+2025-04-03 11:16:43 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:70 - Total breweries to process: 8369 across 84 pages
+2025-04-03 11:16:43 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 1 of 84
+2025-04-03 11:16:44 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 2 of 84
+2025-04-03 11:16:45 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 3 of 84
+2025-04-03 11:16:45 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 4 of 84
+2025-04-03 11:16:46 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 5 of 84
+2025-04-03 11:16:47 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 6 of 84
+2025-04-03 11:16:48 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 7 of 84
+2025-04-03 11:16:48 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 8 of 84
+2025-04-03 11:16:49 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 9 of 84
+2025-04-03 11:16:50 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 10 of 84
+2025-04-03 11:16:50 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 11 of 84
+2025-04-03 11:16:51 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 12 of 84
+2025-04-03 11:16:52 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 13 of 84
+2025-04-03 11:16:53 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 14 of 84
+2025-04-03 11:16:53 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 15 of 84
+2025-04-03 11:16:54 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 16 of 84
+2025-04-03 11:16:55 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 17 of 84
+2025-04-03 11:16:56 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 18 of 84
+2025-04-03 11:16:56 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 19 of 84
+2025-04-03 11:16:57 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 20 of 84
+2025-04-03 11:16:57 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 21 of 84
+2025-04-03 11:16:58 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 22 of 84
+2025-04-03 11:16:59 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 23 of 84
+2025-04-03 11:17:00 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 24 of 84
+2025-04-03 11:17:01 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 25 of 84
+2025-04-03 11:17:01 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 26 of 84
+2025-04-03 11:17:02 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 27 of 84
+2025-04-03 11:17:03 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 28 of 84
+2025-04-03 11:17:04 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 29 of 84
+2025-04-03 11:17:04 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 30 of 84
+2025-04-03 11:17:05 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 31 of 84
+2025-04-03 11:17:06 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 32 of 84
+2025-04-03 11:17:07 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 33 of 84
+2025-04-03 11:17:07 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 34 of 84
+2025-04-03 11:17:08 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 35 of 84
+2025-04-03 11:17:09 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 36 of 84
+2025-04-03 11:17:09 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 37 of 84
+2025-04-03 11:17:10 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 38 of 84
+2025-04-03 11:17:11 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 39 of 84
+2025-04-03 11:17:12 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 40 of 84
+2025-04-03 11:17:12 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 41 of 84
+2025-04-03 11:17:13 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 42 of 84
+2025-04-03 11:17:14 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 43 of 84
+2025-04-03 11:17:15 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 44 of 84
+2025-04-03 11:17:15 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 45 of 84
+2025-04-03 11:17:16 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 46 of 84
+2025-04-03 11:17:17 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 47 of 84
+2025-04-03 11:17:18 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 48 of 84
+2025-04-03 11:17:18 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 49 of 84
+2025-04-03 11:17:19 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 50 of 84
+2025-04-03 11:17:20 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 51 of 84
+2025-04-03 11:17:21 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 52 of 84
+2025-04-03 11:17:21 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 53 of 84
+2025-04-03 11:17:22 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 54 of 84
+2025-04-03 11:17:23 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 55 of 84
+2025-04-03 11:17:24 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 56 of 84
+2025-04-03 11:17:25 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 57 of 84
+2025-04-03 11:17:26 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 58 of 84
+2025-04-03 11:17:26 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 59 of 84
+2025-04-03 11:17:27 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 60 of 84
+2025-04-03 11:17:28 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 61 of 84
+2025-04-03 11:17:29 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 62 of 84
+2025-04-03 11:17:29 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 63 of 84
+2025-04-03 11:17:30 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 64 of 84
+2025-04-03 11:17:31 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 65 of 84
+2025-04-03 11:17:32 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 66 of 84
+2025-04-03 11:17:33 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 67 of 84
+2025-04-03 11:17:33 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 68 of 84
+2025-04-03 11:17:34 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 69 of 84
+2025-04-03 11:17:34 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 70 of 84
+2025-04-03 11:17:35 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 71 of 84
+2025-04-03 11:17:36 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 72 of 84
+2025-04-03 11:17:37 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 73 of 84
+2025-04-03 11:17:38 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 74 of 84
+2025-04-03 11:17:38 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 75 of 84
+2025-04-03 11:17:39 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 76 of 84
+2025-04-03 11:17:40 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 77 of 84
+2025-04-03 11:17:40 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 78 of 84
+2025-04-03 11:17:41 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 79 of 84
+2025-04-03 11:17:42 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 80 of 84
+2025-04-03 11:17:42 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 81 of 84
+2025-04-03 11:17:43 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 82 of 84
+2025-04-03 11:17:44 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 83 of 84
+2025-04-03 11:17:45 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:78 - Processing page 84 of 84
+2025-04-03 11:17:45 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:103 - Saving data to: /usr/local/airflow/include/data/bronze/openbrewerydb/breweries/full/year=2025/month=4/day=3/20250403_111642_breweries.json
+2025-04-03 11:17:45 | SUCCESS  | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:108 - Successfully saved 8369 records to /usr/local/airflow/include/data/bronze/openbrewerydb/breweries/full/year=2025/month=4/day=3/20250403_111642_breweries.json
+2025-04-03 11:17:45 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:110 - 
+        Ingestion completed successfully:
+        - Total records processed: 8369
+        - Total execution time: 62.94 seconds
+        
+2025-04-03 18:15:04 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:63 - Starting breweries data ingestion for date: 2025-04-03
+2025-04-03 18:17:20 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:71 - Total breweries to process: 8369 across 84 pages
+2025-04-03 18:17:20 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 1 of 84
+2025-04-03 18:19:36 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 2 of 84
+2025-04-03 18:21:52 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 3 of 84
+2025-04-03 18:21:52 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 4 of 84
+2025-04-03 18:21:53 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 5 of 84
+2025-04-03 18:21:54 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 6 of 84
+2025-04-03 18:21:55 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 7 of 84
+2025-04-03 18:21:55 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 8 of 84
+2025-04-03 18:21:56 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 9 of 84
+2025-04-03 18:21:57 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 10 of 84
+2025-04-03 18:21:57 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 11 of 84
+2025-04-03 18:21:58 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 12 of 84
+2025-04-03 18:21:59 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 13 of 84
+2025-04-03 18:21:59 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 14 of 84
+2025-04-03 18:22:00 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 15 of 84
+2025-04-03 18:22:01 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 16 of 84
+2025-04-03 18:22:01 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 17 of 84
+2025-04-03 18:22:02 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 18 of 84
+2025-04-03 18:22:03 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 19 of 84
+2025-04-03 18:22:03 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 20 of 84
+2025-04-03 18:22:04 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 21 of 84
+2025-04-03 18:22:05 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 22 of 84
+2025-04-03 18:22:06 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 23 of 84
+2025-04-03 18:22:06 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 24 of 84
+2025-04-03 18:22:07 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 25 of 84
+2025-04-03 18:22:08 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 26 of 84
+2025-04-03 18:22:09 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 27 of 84
+2025-04-03 18:22:09 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 28 of 84
+2025-04-03 18:22:10 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 29 of 84
+2025-04-03 18:22:11 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 30 of 84
+2025-04-03 18:22:11 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 31 of 84
+2025-04-03 18:22:13 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 32 of 84
+2025-04-03 18:22:14 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 33 of 84
+2025-04-03 18:22:14 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 34 of 84
+2025-04-03 18:22:15 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 35 of 84
+2025-04-03 18:22:16 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 36 of 84
+2025-04-03 18:22:16 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 37 of 84
+2025-04-03 18:22:17 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 38 of 84
+2025-04-03 18:22:18 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 39 of 84
+2025-04-03 18:22:18 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 40 of 84
+2025-04-03 18:22:19 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 41 of 84
+2025-04-03 18:22:20 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 42 of 84
+2025-04-03 18:22:21 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 43 of 84
+2025-04-03 18:22:21 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 44 of 84
+2025-04-03 18:22:22 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 45 of 84
+2025-04-03 18:22:23 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 46 of 84
+2025-04-03 18:22:24 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 47 of 84
+2025-04-03 18:22:24 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 48 of 84
+2025-04-03 18:22:25 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 49 of 84
+2025-04-03 18:22:26 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 50 of 84
+2025-04-03 18:22:27 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 51 of 84
+2025-04-03 18:22:27 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 52 of 84
+2025-04-03 18:22:28 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 53 of 84
+2025-04-03 18:22:29 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 54 of 84
+2025-04-03 18:22:30 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 55 of 84
+2025-04-03 18:22:30 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 56 of 84
+2025-04-03 18:22:31 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 57 of 84
+2025-04-03 18:22:32 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 58 of 84
+2025-04-03 18:22:33 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 59 of 84
+2025-04-03 18:22:33 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 60 of 84
+2025-04-03 18:22:34 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 61 of 84
+2025-04-03 18:22:35 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 62 of 84
+2025-04-03 18:22:36 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 63 of 84
+2025-04-03 18:22:36 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 64 of 84
+2025-04-03 18:22:37 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 65 of 84
+2025-04-03 18:22:38 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 66 of 84
+2025-04-03 18:22:38 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 67 of 84
+2025-04-03 18:22:39 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 68 of 84
+2025-04-03 18:22:40 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 69 of 84
+2025-04-03 18:22:40 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 70 of 84
+2025-04-03 18:22:41 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 71 of 84
+2025-04-03 18:22:42 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 72 of 84
+2025-04-03 18:22:42 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 73 of 84
+2025-04-03 18:22:43 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 74 of 84
+2025-04-03 18:22:44 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 75 of 84
+2025-04-03 18:22:44 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 76 of 84
+2025-04-03 18:22:46 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 77 of 84
+2025-04-03 18:22:47 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 78 of 84
+2025-04-03 18:22:47 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 79 of 84
+2025-04-03 18:22:48 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 80 of 84
+2025-04-03 18:22:49 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 81 of 84
+2025-04-03 18:22:49 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 82 of 84
+2025-04-03 18:22:50 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 83 of 84
+2025-04-03 18:22:51 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:79 - Processing page 84 of 84
+2025-04-03 18:22:51 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:104 - Saving data to: /usr/local/airflow/include/data/bronze/openbrewerydb/breweries/full/year=2025/month=4/day=3/20250403_181504_breweries.json
+2025-04-03 18:22:51 | SUCCESS  | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:109 - Successfully saved 8369 records to /usr/local/airflow/include/data/bronze/openbrewerydb/breweries/full/year=2025/month=4/day=3/20250403_181504_breweries.json
+2025-04-03 18:22:51 | INFO     | unusual_prefix_e5fd9d9ed229db0b74d6834f7ce74d33d5a5accb_dag_bronze_breweries_ingestion:ingest_bronze_breweries_data:111 - 
+        Ingestion completed successfully:
+        - Total records processed: 8369
+        - Total execution time: 467.73 seconds
+        

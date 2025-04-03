@@ -1,0 +1,6 @@
+project:
+    name: bees-breweries-case
+webserver:
+    port: 8085
+postgres:
+    port: 5438
