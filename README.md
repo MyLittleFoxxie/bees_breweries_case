@@ -1,7 +1,7 @@
-# Documentação do Projeto Bees Breweries Case
+# Case Bees Breweries Case
 
 ## Visão Geral
-Este projeto implementa um pipeline de dados para processamento de informações sobre cervejarias utilizando Apache Airflow, Spark e Delta Lake. O pipeline segue uma arquitetura em camadas (bronze, silver, gold) para garantir a qualidade e confiabilidade dos dados.
+Este projeto implementa um pipeline de dados para processamento de informações sobre cervejarias utilizando Apache Airflow, Spark e Delta Lake sobre a API da "openbrewerydb.org". O pipeline segue uma arquitetura em camadas (bronze, silver, gold) para garantir a qualidade e confiabilidade dos dados.
 
 ## Estrutura do Projeto
 ```
